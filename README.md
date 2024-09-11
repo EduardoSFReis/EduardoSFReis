@@ -17,9 +17,7 @@
 
 <h3 align="left">🌟 Sobre Mim</h3>
 
-###
 
-<p align="left">Olá! Sou um desenvolvedor web experiente com um pouco mais de 1 de experiência. Meu foco principal é criar aplicações web eficientes e escaláveis !</p>
 
 ###
 
